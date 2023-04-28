@@ -6,8 +6,9 @@
 ### <div align="center">I'm JoelGamer, a full-time full-stack developer, working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [BusPatrol](https://www.buspatrol.com)  
-  
+- 🔭 I’m currently working at [BusPatrol](https://www.buspatrol.com) and [YOUVISA](https://youvisa.com.br)
+  - YOUVISA as CTO using Rails and Next.JS
+  - BusPatrol as Full-Stack Developer using Rails
 
 - 📕 Passionate in learning Ruby and Typescript  
   
