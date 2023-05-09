@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm JoelGamer, a full-time full-stack developer, working remotely since 2019 🚀</div>  
+### <div align="center">I'm JoelGamer, a full-time full-stack developer, working since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working at [BusPatrol](https://www.buspatrol.com) and [YOUVISA](https://youvisa.com.br)
