@@ -7,7 +7,6 @@
   
 
 - 🔭 I’m currently working at [BusPatrol](https://www.buspatrol.com) and [YOUVISA](https://youvisa.com.br)
-  - YOUVISA as CTO using Rails and Next.JS
   - BusPatrol as Full-Stack Developer using Rails
 
 - 📕 Passionate in learning Ruby and Typescript  
