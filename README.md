@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm JoelGamer, a full-time full-stack developer, working since 2018 🚀</div>  
+### <div align="center">I'm Guilherme Theodoro (aka JoelGamer), a full-time full-stack developer, working since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working at [BusPatrol](https://www.buspatrol.com) as Full-Stack Developer using Rails
